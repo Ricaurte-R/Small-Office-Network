@@ -68,11 +68,11 @@ Las pruebas fueron exitosas, confirmando la comunicación entre los dispositivos
 
 ### Topología
 
-![Topología de la red](screenshots/topology.png)
+![Topología de la red](screenshots/Topology.png)
 
 ### Configuración IP
 
-![Configuración IP](screenshots/ip_config.png)
+![Configuración IP](screenshots/Ip_config.png)
 
 ### Prueba de conectividad
 
