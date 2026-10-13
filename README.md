@@ -72,7 +72,7 @@ Las pruebas fueron exitosas, confirmando la comunicación entre los dispositivos
 
 ### Configuración IP
 
-![Configuración IP](screenshots/IP_config.png)
+![Configuración IP](screenshots/IP_Config.png)
 
 ### Prueba de conectividad
 
